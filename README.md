@@ -14,11 +14,11 @@ months of the year had the most success. While April and August were trailing ve
 ## Analysis of Outcomes Based on Goals: 
 -	As we look at the percentage the best performing plays were under the 1000-dollar goal.  Based on Louise’s budget her play has about 50% chance of reaching her set goal for the play. 
 <img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Resource\Outcomes_vs_goals.png">
-## Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 -	One of the biggest challenges that we faced during this study was trying to separate the amount of 
 data. Being provided with so much data can be very confusing and can be very misleading as so many 
 categories and subcategories were introduced in this project.  
-### Results
+## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 - Louise does not want to launch in December because the failure rate is the highest, but she does want to launch in May or June. 
 - Looking at the numbers can be misleading because there is a different grand total of launces each month is different and varies significantly 
