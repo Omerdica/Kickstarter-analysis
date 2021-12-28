@@ -11,10 +11,12 @@ to stay within her budget.
 -	When looking at the data provided in the outcomes based on launch date, we see that only three 
 months of the year had the most success. While April and August were trailing very close their failed and canceled were very high compared to some of the other months. 
 <img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Resource\Theater_Outcomes_vs_Launch.png">
+
 ### Analysis of Outcomes Based on Goals: 
 -	As we look at the percentage the best performing plays were under the 1000-dollar goal.  Based on Louise’s budget her play has about 50% chance of reaching her set goal for the play. 
 <img src="C:\Users\rolli\OneDrive\Desktop\Almir School\Resource\Outcomes_vs_goals.png">
-###Challenges and Difficulties Encountered
+
+### Challenges and Difficulties Encountered
 -	One of the biggest challenges that we faced during this study was trying to separate the amount of 
 data. Being provided with so much data can be very confusing and can be very misleading as so many 
 categories and subcategories were introduced in this project.  
